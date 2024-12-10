@@ -1,0 +1,21 @@
+.text-center{
+text-align: center;
+background-color: rgb(161, 163, 29);
+}
+.col-sm-4{
+  background-color: rgb(223, 189, 165);
+color: rgb(119, 56, 10);
+  text-align: padding 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-block: 4px dotted rgb(0, 0, 0);
+  border-block-style: solid;border-left: 1px solid #000;
+  border-block-color: rgb(78, 50, 55) rgb(185, 188, 189);
+  border-block-start-style: dotted;
+  border-block-style: solid;
+  border-inline-style: solid;
+  border-inline-width: 10px;
+}
+.container2{
+  text-align: center;
+}
